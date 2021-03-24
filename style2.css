@@ -22,7 +22,49 @@ body {
     align-items: center;
     height: 35vh;
     width: 95vw;
-  
+    flex-wrap: wrap;
   }
+
+  .item-box-top-left {
+    background-color: brown;
+    height: 30vh;
+    width: 60vw;
+  }
+  .container-item-box-top-right {
+    background-color: navajowhite;
+    height: 30vh;
+    width: 30vw;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column; 
+  }
+
+  .item-box-top-right {
+    background-color: brown;
+    height: 8vh;
+    width: 30vw;
+  }
+
+  .item-box-down-up {
+    background-color: brown;
+    height: 15vh;
+    width: 85vw;
+  }
+
+  .container-item-box-down-down {
+    background-color: navajowhite;
+    height: 15vh;
+    width: 85vw;
+    display: flex;
+    justify-content: space-between;
+  }
+  .item-box-down {
+    background-color: brown;
+    height: 10vh;
+    width: 8vw;
+  }
+
+
+
 
   
