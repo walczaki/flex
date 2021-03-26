@@ -20,20 +20,20 @@ body {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    height: 35vh;
-    width: 95vw;
+    height: 33vh;
+    width: 90vw;
     flex-wrap: wrap;
   }
 
   .item-box-top-left {
     background-color: brown;
     height: 30vh;
-    width: 60vw;
+    width: 48vw;
   }
   .container-item-box-top-right {
     background-color: navajowhite;
     height: 30vh;
-    width: 30vw;
+    width: 34vw;
     display: flex;
     justify-content: space-between;
     flex-direction: column; 
@@ -41,27 +41,27 @@ body {
 
   .item-box-top-right {
     background-color: brown;
-    height: 8vh;
-    width: 30vw;
+    height: 9vh;
+    width: 34vw;
   }
 
   .item-box-down-up {
     background-color: brown;
     height: 15vh;
-    width: 85vw;
+    width: 84vw;
   }
 
   .container-item-box-down-down {
     background-color: navajowhite;
     height: 15vh;
-    width: 85vw;
+    width: 84vw;
     display: flex;
     justify-content: space-between;
   }
   .item-box-down {
     background-color: brown;
-    height: 10vh;
-    width: 8vw;
+    height: 14vh;
+    width: 12vw;
   }
 
 
